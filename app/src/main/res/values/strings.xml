@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zomatoAppRem</string>
+    <string name="enter_your_uniqueid">enter your UniqueId</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="login"><![CDATA[Login->]]></string>
+    <string name="signup">Signup</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="create_your_password">create your password</string>
+    <string name="create_your_unique_id">create your unique id</string>
+    <string name="enter_your_email">enter your email</string>
+</resources>

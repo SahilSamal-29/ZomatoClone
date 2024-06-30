@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610411708725",
+    "project_id": "zomatoapprem",
+    "storage_bucket": "zomatoapprem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610411708725:android:ad2ae900439f96950b8c7c",
+        "android_client_info": {
+          "package_name": "com.example.zomatoapprem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcHo-LzC7SCOdhedcTqsv5iFhzPWpH0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
